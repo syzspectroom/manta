@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/dotabuff/manta/dota"
 	"github.com/stretchr/testify/assert"
+	"github.com/syzspectroom/manta/dota"
 )
 
 func BenchmarkMatch2159568145(b *testing.B) { testScenarios[2159568145].bench(b) }

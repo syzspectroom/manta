@@ -12,4 +12,4 @@ script:
 
 cache:
   directories:
-    - $HOME/gopath/src/github.com/dotabuff/manta/replays
+    - $HOME/gopath/src/github.com/syzspectroom/manta/replays

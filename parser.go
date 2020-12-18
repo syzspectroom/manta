@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/dotabuff/manta/dota"
 	"github.com/golang/snappy"
+	"github.com/syzspectroom/manta/dota"
 )
 
 // The first 8 bytes of a replay for Source 1 and Source 2

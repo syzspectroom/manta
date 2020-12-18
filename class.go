@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/dotabuff/manta/dota"
+	"github.com/syzspectroom/manta/dota"
 )
 
 var gameBuildRegexp = regexp.MustCompile(`/dota_v(\d+)/`)
